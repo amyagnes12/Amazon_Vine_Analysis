@@ -10,7 +10,7 @@
 ![five_star](Resources/five_star.png)
 
 - 42.17% of Vine reviews were 5 stars and 46.87% of non-Vine reviews were 5 stars.
-![percentage_five_star](Resources/perentage_five_star.png)
+![percentage_five_star](Resources/percentage_five_star.png)
 
 
 ## Summary
